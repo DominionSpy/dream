@@ -1,0 +1,11 @@
+###########################
+# README                  #
+# Author : Matthew Wilson #
+# Created: 14/04/2012     #
+###########################
+
+This is the Github repository for the dream programming language.
+It is being developed for the PL101 course being run at nathansuniversity.com.
+
+Dream is being designed to be a simple easy-to-learn language specialised for the creation of games.
+It will borrow from such languages as Google Go, Scala, MATLAB and DOT (a graph definition language).
